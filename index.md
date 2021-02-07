@@ -3,10 +3,12 @@
 You can use the **page** to maintain and preview the content of yourself.
 
 ### Needed Links
+
+#### google search
 to do searches [google search](https://www.google.com/)
-to visit youtube[youtube](https://www.youtube.com/)
-to work on charts[trandingview](https://in.tradingview.com/)
-to do course[NPTEL swayam](https://swayam.gov.in/)
+to visit youtube [youtube](https://www.youtube.com/)
+to work on charts [trandingview](https://in.tradingview.com/)
+to do course [NPTEL swayam](https://swayam.gov.in/)
 
 ### Markdown
 
