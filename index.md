@@ -4,11 +4,20 @@ You can use the **page** to maintain and preview the content of yourself.
 
 ### Needed Links
 
-#### google search
+#### - google search
 to do searches [google search](https://www.google.com/)
+
+#### - youtube
 to visit youtube [youtube](https://www.youtube.com/)
+
+#### - trandingview
 to work on charts [trandingview](https://in.tradingview.com/)
+
+#### -  NPTEL swayam
 to do course [NPTEL swayam](https://swayam.gov.in/)
+
+#### - random 
+ [tatamotors](https://www.tatamotors.com/)
 
 ### Markdown
 
@@ -21,7 +30,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-to do random thins[tatamotors](https://www.tatamotors.com/)
 
 - Bulleted
 - List
