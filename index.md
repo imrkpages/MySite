@@ -25,7 +25,7 @@ Google Pixel is a brand of consumer electronic devices developed by Google.
 
 ```markdown
 
-Phones :
+Phones 
 
     - Pixel & Pixel XL
     - Pixel 2 & 2 XL
