@@ -5,19 +5,19 @@ You can use the **page** to maintain and preview the content of yourself.
 ###  Needed Links
 
 
- * [google search](https://www.google.com/)
+ * [Google search](https://www.google.com/)
 
 
- * [youtube](https://www.youtube.com/)
+ * [Youtube](https://www.youtube.com/)
 
 
- * [trandingview](https://in.tradingview.com/)
+ * [Trandingview](https://in.tradingview.com/)
 
 
  * [NPTEL swayam](https://swayam.gov.in/)
 
 
- * [tatamotors](https://www.tatamotors.com/)
+ * [Tatamotors](https://www.tatamotors.com/)
 
 ### Google Pixel
 
