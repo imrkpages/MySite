@@ -16,6 +16,3 @@ You can use the **page** to maintain and preview the content of yourself.
 
  * [NPTEL swayam](https://swayam.gov.in/)
 
-
-```
-
