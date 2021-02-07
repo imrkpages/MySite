@@ -3,11 +3,10 @@
 You can use the **page** to maintain and preview the content of yourself.
 
 ### Needed Links
-[google search](https://www.google.com/)
-[youtube](https://www.youtube.com/)
-[trandingview](https://in.tradingview.com/)
-[NPTEL swayam](https://swayam.gov.in/)
-[tatamotors](https://www.tatamotors.com/)
+to do searches [google search](https://www.google.com/)
+to visit youtube[youtube](https://www.youtube.com/)
+to work on charts[trandingview](https://in.tradingview.com/)
+to do course[NPTEL swayam](https://swayam.gov.in/)
 
 ### Markdown
 
@@ -19,6 +18,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+to do random thins[tatamotors](https://www.tatamotors.com/)
 
 - Bulleted
 - List
