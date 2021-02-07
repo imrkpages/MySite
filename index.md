@@ -2,21 +2,21 @@
 
 You can use the **page** to maintain and preview the content of yourself.
 
-### Needed Links
+###  Needed Links
 
-#### - google search
+#### google search
 to do searches [google search](https://www.google.com/)
 
-#### - youtube
+#### youtube
 to visit youtube [youtube](https://www.youtube.com/)
 
-#### - trandingview
+#### trandingview
 to work on charts [trandingview](https://in.tradingview.com/)
 
-#### -  NPTEL swayam
+#### NPTEL swayam
 to do course [NPTEL swayam](https://swayam.gov.in/)
 
-#### - random 
+#### random 
  [tatamotors](https://www.tatamotors.com/)
 
 ### Google Pixel
