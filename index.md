@@ -2,7 +2,7 @@
 
 You can use the **page** to maintain and preview the content of yourself.
 
-**[GOOGLE]**(https://www.google.com/)
+[GOOGLE](https://www.google.com/)
 
 ### Markdown
 
