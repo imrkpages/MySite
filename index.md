@@ -19,27 +19,21 @@ to do course [NPTEL swayam](https://swayam.gov.in/)
 #### - random 
  [tatamotors](https://www.tatamotors.com/)
 
-### Markdown
+### Google Pixel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Google Pixel is a brand of consumer electronic devices developed by Google.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+ ## Phones
+    - Pixel & Pixel XL
+    - Pixel 2 & 2 XL
+    - Pixel 3 & 3 XL
+    - Pixel 3a & 3a XL
+    - Pixel 4 & 4 XL
+    - Pixel 4a & 4a (5G)
+    - Pixel 5
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
