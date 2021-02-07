@@ -2,7 +2,12 @@
 
 You can use the **page** to maintain and preview the content of yourself.
 
-[GOOGLE](https://www.google.com/)
+### Needed Links
+[google search](https://www.google.com/)
+[youtube](https://www.youtube.com/)
+[trandingview](https://in.tradingview.com/)
+[NPTEL swayam](https://swayam.gov.in/)
+[tatamotors](https://www.tatamotors.com/)
 
 ### Markdown
 
