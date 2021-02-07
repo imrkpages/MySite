@@ -4,20 +4,20 @@ You can use the **page** to maintain and preview the content of yourself.
 
 ###  Needed Links
 
-#### google search
-to do searches [google search](https://www.google.com/)
 
-#### youtube
-to visit youtube [youtube](https://www.youtube.com/)
+ * [google search](https://www.google.com/)
 
-#### trandingview
-to work on charts [trandingview](https://in.tradingview.com/)
 
-#### NPTEL swayam
-to do course [NPTEL swayam](https://swayam.gov.in/)
+ * [youtube](https://www.youtube.com/)
 
-#### random 
- [tatamotors](https://www.tatamotors.com/)
+
+ * [trandingview](https://in.tradingview.com/)
+
+
+ * [NPTEL swayam](https://swayam.gov.in/)
+
+
+ * [tatamotors](https://www.tatamotors.com/)
 
 ### Google Pixel
 
